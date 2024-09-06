@@ -5,7 +5,6 @@ on:
 
 env:
   ACCESS_ID: ${{ secrets.ACCESS_ID }}
-  ACCESS_ID: kode-kloud-123456
 jobs:
   build:
     runs-on: ubuntu-latest
